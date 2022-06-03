@@ -1,4 +1,4 @@
-## (Mi portafolio)
+## Mi portafolio
 
 Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de la Univesidad de Granada
 
@@ -8,38 +8,37 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 
 
-**Titulo** : MI Proyecto(nombre)
+**Titulo** : Mi portafolio
 
-**Web:**   (url github.io)
+**Web:**   (https://github.com/andrebaaa/andrebaaa.github.io)
 
-**Autor:**  (Nombre apellidos)
+**Autor:**  Andrea Bustos Aguilar
 
-**Resumen** : Este proyecto busca contar las hitorias de migrantes jóvenes, siendo ellos mismos los protagonistas. Esta será una compilación de relatos y crónicas de sus experiencias, exponiendo su lucha de identidad y sentido de pertenencia, herencia migratoria, entre otros temas que abrirán un debate del tema.
+**Resumen** : Este proyecto busca crear un portafolio interactivo, en el que además de introducir la obra personal, también se enfoque de modo didáctico para aquellas personas interesadas en el arte. Por ello se introducen datos sobre obras que ayudan al espectador a sumergirse en el mundo del arte.
 
-**Estilo/género:**  Novela / juego / portfolio / documental... etc.
+**Estilo/género:** Portafolio artístico.
 
-**Logotipo** : (insertar imagen y breve justificación, si  tiene) 
+**Logotipo** : ![Logotipo](https://github.com/andrebaaa/andrebaaa.github.io/blob/master/medios/logo_BBAA1.png)
+El logotipo hace referencia a la facultad de Bellas Artes de la UGR.
 
-(insertar imágenes a resolucion de 100px alto)
 
-**Resolución:** 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
 
-**Probado en:**   (indicar dónde has probado que funciona: ej. Google Chrome / MS Edge... /móviles android )
+**Resolución:** 800x600px  tamaño fijo y reescalable.
 
-**Tamaño proyecto:** 14MB 
+**Probado en:**   Google Chrome / MS Edge /móviles android.
+
+**Tamaño proyecto:** 10,3MB
 
 **Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
 
-**Fecha** : 14/05/2020
+**Fecha** : 06/04/2022
 
-**Medios** (donde se tiene presencia relacionada):
+**Medios** :
 
-- Github:
-- Twitter
-- Instagram
+- Github:https://github.com/andrebaaa
+- Facebook: https://www.facebook.com/andrebaartt
+- Instagram: https://www.instagram.com/andreba_art/
 
-
-![girl](https://github.com/mgea/cmi20/blob/master/WalkingGirl_front01.png)
 
 # 2. Memoria del proyecto 
 
@@ -53,6 +52,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 ### 2.2. Esquema de navegación 
 
+En cuanto al esquema de navegación, tras la introducción, nos encontramos un menú en el que se organizan los apartados, y al que siempre podemos volver.
 
 
 (imagen con las distintas pantallas de navegación, usa draw.io o cualquier programa de dibujo)
@@ -86,7 +86,7 @@ Este  proyecto es interesante porque ...
 
 **Publico / audiencia**
 
-- Orientado a 
+- Orientado a  personas interesadas en arte.
 
 
 
@@ -94,13 +94,14 @@ Este  proyecto es interesante porque ...
 
 ### Etapa 2: Desarrollo / actividades realizadas
 
-(qué soluciones has planteado y cómo se han resuelto: juego, galería de fotos, grabación de video, etc.)
+A la idea inicial de Bellas artes: territorio creativo, le añado lo siguiente:
 
-- Juego. 
-- Video 
+- Ménus y elementos de navegación (botones con sonido)
+-  Aventura (juego que permite tomar decisiones para conocer caracteristicas de obras)
+-  Mini juego (con codigo secreto y personaje que se puede mover con teclado y ratón)
+-  Quizz (juego con puntuación sobre obras de artistas)
 - Instrucciones y ayuda al usuario 
-- Menús y elementos de navegación (botones)
-- etc.
+-  Música de fondo que pueder reproducir o detener
 
 
 
@@ -122,25 +123,26 @@ Este  proyecto es interesante porque ...
 
 # 5 Referencias 
 
-**Artículos y blogs ** 
-
-- Crofts, S., Fox, M., Retsema, A. and Williams, B. (2005) *Podcasting: A new technology in search of viable business models*First Monday, 10(9). https://doi.org/10.5210/fm.v10i9.1273. Recuperado el 8 de abril de 2020 de: https://journals.uic.edu/ojs/index.php/fm/article/view/1273/1193
-
 **Recursos y materiales audiovisuales:**
 
-* Musica:  
-* Imágenes:  
-* Tipografía
+* Musica:  extraída de la biblioteca de sonido de Youtube.
+* Imágenes: todas las imágenes pertenecientes a la facultad (sacadas previamente de [Flickr] (https://www.flickr.com/photos/bellasartesugr/), todas las imagenes pertenecientes a obras o artistas sacadas de [Google] (https://www.google.es/imghp?hl=es) y todas las imagenes de mis obras sacadas por mí.  
+*  Sonido: efectos de sonido sin Copyright extraídos de [Sonidos mp3 gratis] (http://www.sonidosmp3gratis.com/)
+* Tipografía: Courier New, Comic Sans, Arial Black, Sans Serif (internet seguro)
+Roboto (fuente de google)
 
 **Herramientas utilizadas**
 
 - Hippani Animator 5.1
-- 
+-  Adobe Photoshop CC 2020 
+-  Adobe Premiere CC 2020 14.9
+-  Audacity 3.1.3
 
 
 
-(imagen de la licencia, copiar y pegar aquí la correcta)
+![licencia]
+https://github.com/andrebaaa/andrebaaa.github.io/blob/master/documentaci%C3%B3n/Creative%20Commons.png
 
-https://creativecommons.org/licenses/?lang=es
+https://creativecommons.org/licenses/by-nc-sa/4.0/
 
-Mayo 2020
+Junio 2022
