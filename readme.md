@@ -4,7 +4,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 
 
-# 1 Datos 
+# 1. Datos
 
 
 
