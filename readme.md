@@ -140,8 +140,7 @@ Roboto (fuente de google)
 
 
 
-![licencia]
-https://github.com/andrebaaa/andrebaaa.github.io/blob/master/documentaci%C3%B3n/Creative%20Commons.png
+![licencia](https://github.com/andrebaaa/andrebaaa.github.io/blob/master/documentaci%C3%B3n/Creative%20Commons.png)
 
 https://creativecommons.org/licenses/by-nc-sa/4.0/
 
