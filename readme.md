@@ -91,9 +91,9 @@ Partimos de la propuesta común para crear un producto multimedia basadi en  una
 
 **Investigación de campo** (propuestas inspiradoras para el proyecto)
 
-- Portfolio [Pasea por mis obras] (https://mariajoserr.github.io/)
-- Portfolio [Portafolio] (https://miriamnavarro.github.io/)
-- Novela [la historia de alfredo] (https://alfredsstory.github.io/)
+- Portfolio (https://mariajoserr.github.io/)
+- Portfolio (https://miriamnavarro.github.io/)
+- Novela (https://alfredsstory.github.io/)
 
 
 
@@ -111,24 +111,23 @@ Este  proyecto es interesante para el espectador que esta interesado en el arte,
 
 A la idea inicial de Bellas artes: territorio creativo, le añado lo siguiente:
 
-- Ménus y elementos de navegación (botones con sonido)
+-  Ménus y elementos de navegación (botones con sonido)
 -  Aventura (juego que permite tomar decisiones para conocer caracteristicas de obras)
 -  Mini juego (con codigo secreto y personaje que se puede mover con teclado y ratón)
 -  Quizz (juego con puntuación sobre obras de artistas)
-- Instrucciones y ayuda al usuario 
+-  Instrucciones y ayuda al usuario 
 -  Música de fondo que pueder reproducir o detener
 
 
 
 ### Etapa 3: Problemas identificados
 
-(que consideras que no  funciona correctamente y por qué )
-
+La mayor dificultad que he tenido ha sido buscar errores de script, ya que había cosas que no se le tomaba gran importancía, como por ejemplo porner un +, esto hacía que la pelicula no funcionara y saltaban errores siempren en cosas que no tenian relación.
 
 
 # 4. Conclusiones 
 
-(explica brevemente tu valoración, problemas que has detectado y que te gustaría hacer o mejorar en el futuro )
+El desarrollo de este proyecto ha sido bastante bueno, ya que nos ha enseñado una nueva manera de mostrar al público, mediante interacciones, las cosas que realizas, ya sea de manera profesional o de aprendizaje. Este método es muy util a la hora de ser un artista ya que generas una difusión del arte de manera virtual. Creo que en un futuro podré producir y difundir mediante este conocimiento mi propio arte.
 
 
 
