@@ -48,6 +48,7 @@ El logotipo hace referencia a la facultad de Bellas Artes de la UGR.
 ### 2.1 Storyboard: 
 
 Al entrar en el portafolio, lo primero que vemos es una pequeña introdución , en la cual presenta la facultad de bellas artes.
+https://github.com/andrebaaa/andrebaaa.github.io/blob/master/documentaci%C3%B3n/Captura%20de%20pantalla%202022-06-04%20174219.png
 
 
 
