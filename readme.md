@@ -52,18 +52,24 @@ Al entrar en el portafolio, lo primero que vemos es una pequeña introdución , 
 
 Cuando termina esta pequeña introducción pasa a la siguiente escena en la cual podemos ver  una brebre presentación de lo que se puede ver a continuacion .
 
+![menú]( https://github.com/andrebaaa/andrebaaa.github.io/blob/master/documentaci%C3%B3n/menu%20galeria.png )
 
 Una vez dentro del menú vemos que hay  cuatro botones en los que dos de ellos te llevan a ver fotos de la facultad o fotos de mis dibujos. Los otros botones sirven para ir a ver videos sobre la  BBAA y  el último  ver los creditos de este proyecto.
 Cuando entramos en una de estas opciones hay otro boton que te lleva hacia otro menú en el que puedes elegir ir al menú de galeria o al menú de juegos.
+
 ![botón menú]( https://github.com/andrebaaa/andrebaaa.github.io/blob/master/medios/Button_menu.png )
 
 Si elegimos la opción de juegos  observamos otro menú en el que puedes elegir ir a una aventura  o al quizz.
 El quizz es una serie de preguntas con puntuación .
+
 ![quizz]( https://github.com/andrebaaa/andrebaaa.github.io/blob/master/documentaci%C3%B3n/quizz.png )
 
 La aventura  es una pequela visita a un museo ficticio  en el que te da la opcción de leer las caracteristicas de los cuadros que hay.
+
 ![aventura]( https://github.com/andrebaaa/andrebaaa.github.io/blob/master/documentaci%C3%B3n/aventura.png ) 
+
 Una vez concurrido esto te llevara a un mini juego en el que tendras que averiguar un código secreto, cuando lo adivines podras  jugar con el personaje a esquivar cuadros.
+
 ![mini juego 1]( https://github.com/andrebaaa/andrebaaa.github.io/blob/master/documentaci%C3%B3n/mini%20juego%201.png ) 
 
 ![mini juego 2]( https://github.com/andrebaaa/andrebaaa.github.io/blob/master/documentaci%C3%B3n/mini%20juego%202.png )
