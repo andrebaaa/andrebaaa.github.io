@@ -34,7 +34,7 @@ El logotipo hace referencia a la facultad de Bellas Artes de la UGR.
 
 **Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
 
-**Fecha** : 06/04/2022
+**Fecha** : 04/06/2022
 
 **Medios** :
 
