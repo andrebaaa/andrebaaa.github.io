@@ -86,31 +86,25 @@ En cuanto al esquema de navegación, tras la introducción, nos encontramos un m
 
 # 3. Metodología
 
-Metodología de desarrollo de productos multimedia basado en una metodología de UX (User Experience)
-
-
-
 ### Etapa 1: Ideación de proyecto
+Partimos de la propuesta común para crear un producto multimedia basadi en  una metodología de desarrollo de productos multimedia basado en una metodología de UX (User Experience). Comencé mi idea  con la propuesta de Bellas Artes: territorio creativo, con cada practica fui añadiendole más ideas, como el porfolio o  un museo ficticio virtual en el que se incluye contenido didactico.
 
 **Investigación de campo** (propuestas inspiradoras para el proyecto)
 
-- Portfolio [Leonardi Web page](http://www.rleonardi.com/interactive-resume/) para idear cómo organizar el material
-- 
+- Portfolio [Pasea por mis obras] (https://mariajoserr.github.io/)
+- Portfolio [Portafolio] (https://miriamnavarro.github.io/)
+- Novela [la historia de alfredo] (https://alfredsstory.github.io/)
 
 
 
 **Motivación de la propuesta** 
 
-Este  proyecto es interesante porque ... 
-
+Este  proyecto es interesante para el espectador que esta interesado en el arte, porque descrube una nueva manera de visionar el arte, es decir, pueden interactuar mediante juegos o acciones para poder observar ciertas imagenes o información. Además te informa de como es la facultad de bellas artes para poder estudiar en ella.
 
 
 **Publico / audiencia**
 
 - Orientado a  personas interesadas en arte.
-
-
-
 
 
 ### Etapa 2: Desarrollo / actividades realizadas
