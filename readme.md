@@ -81,7 +81,6 @@ Una vez concurrido esto te llevara a un mini juego en el que tendras que averigu
 En cuanto al esquema de navegación, tras la introducción, nos encontramos un menú en el que se organizan los apartados, y al que siempre podemos volver.
 
 
-(imagen con las distintas pantallas de navegación, usa draw.io o cualquier programa de dibujo)
 
 
 
