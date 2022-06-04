@@ -80,11 +80,7 @@ Una vez concurrido esto te llevara a un mini juego en el que tendras que averigu
 
 En cuanto al esquema de navegación, tras la introducción, nos encontramos un menú en el que se organizan los apartados, y al que siempre podemos volver.
 
-
-
-
-
-
+![esquema]( https://github.com/andrebaaa/andrebaaa.github.io/blob/master/documentaci%C3%B3n/esquema%20mapa%20mental%20juvenil%20colorido%20celeste.jpg ) 
 
 
 
