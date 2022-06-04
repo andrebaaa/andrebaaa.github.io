@@ -28,7 +28,7 @@ El logotipo hace referencia a la facultad de Bellas Artes de la UGR.
 
 **Resolución:** 800x600px  tamaño fijo y reescalable.
 
-**Probado en:**   Google Chrome / MS Edge /móviles android.
+**Probado en:**   Google Chrome / MS Edge / móviles android / móviles ios.
 
 **Tamaño proyecto:** 10,3MB
 
@@ -47,9 +47,8 @@ El logotipo hace referencia a la facultad de Bellas Artes de la UGR.
 
 ### 2.1 Storyboard: 
 
+Al entrar en el portafolio, lo primero que vemos es una pequeña introdución , en la cual presenta la facultad de bellas artes.
 
-
-(narra brevemente lo que sucede en tu proyecto, puedes usar 3-4 imágenes de apoyo)
 
 
 
