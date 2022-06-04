@@ -10,7 +10,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Titulo** : Mi portafolio
 
-**Web:**   https://andrebaaa.github.io/
+**Web:**   https://github.com/andrebaaa/andrebaaa.github.io/blob/master/index.html
 
 **Autor:**  Andrea Bustos Aguilar
 
