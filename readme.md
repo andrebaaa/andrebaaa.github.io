@@ -20,7 +20,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Logotipo** : 
 
-![Logotipo](https://github.com/andrebaaa/andrebaaa.github.io/blob/master/medios/logo_BBAA1.png)
+![Logotipo](https://github.com/andrebaaa/andrebaaa.github.io/blob/master/documentaci%C3%B3n/logo_BBAA.png)
 
 El logotipo hace referencia a la facultad de Bellas Artes de la UGR.
 
